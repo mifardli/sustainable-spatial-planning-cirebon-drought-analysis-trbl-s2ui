@@ -141,7 +141,6 @@ Output utama dari repository ini adalah:
 
 Repository ini disusun untuk kebutuhan akademik Ujian Tengah Semester Mata Kuliah Tata Ruang Berkelanjutan.
 
-## Author
 
 ## Author
 
