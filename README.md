@@ -143,9 +143,9 @@ Repository ini disusun untuk kebutuhan akademik Ujian Tengah Semester Mata Kulia
 
 ## Author
 
-**Miftahul Ardli**
-**2506714652**
-Jenjang Magister
-Departemen Ilmu Lingkungan
-Sekolah Pascasarjana Pembangunan Berkelanjutan
-Universitas Indonesia
+* **Miftahul Ardli**
+* **2506714652**
+* Jenjang Magister
+* Departemen Ilmu Lingkungan
+* Sekolah Pascasarjana Pembangunan Berkelanjutan
+* Universitas Indonesia
